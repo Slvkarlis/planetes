@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">app_solaire</string>
+
+        <!-- Planet Names -->
+        <string-array name="planet_names">
+            <item>Mercure</item>
+            <item>Vénus</item>
+            <item>La Terre</item>
+            <item>Mars</item>
+            <item>Jupiter</item>
+            <item>Saturn</item>
+            <item>Uranus</item>
+            <item>Neptune</item>
+        </string-array>
+
+        <!-- Planet Distances -->
+        <string-array name="planet_distances">
+            <item>57.91 million km</item>
+            <item>108.2 million km</item>
+            <item>149.6 million km</item>
+            <item>227.9 million km</item>
+            <item>778 million km</item>
+            <item>1.43 milliard km</item>
+            <item>2.87 milliard km</item>
+            <item>4.5 milliard km</item>
+        </string-array>
+
+        <!-- Planet Masses -->
+        <string-array name="planet_masses">
+            <item>3.3011×10^23 kg</item>
+            <item>4.8675×10^24 kg</item>
+            <item>5.972×10^24 kg</item>
+            <item>6.4171×10^23 kg</item>
+            <item>1 898,19 × 10^24 kg</item>
+            <item>568,34 × 10^24 kg</item>
+            <item>86,813 ×10^24 kg</item>
+            <item>102,413 ×10^24 kg</item>
+        </string-array>
+
+        <!-- Revolution Periods -->
+        <string-array name="planet_revolutions">
+            <item>88 jours</item>
+            <item>225 jours</item>
+            <item>365.25 jours</item>
+            <item>687 jours</item>
+            <item>4,333 jours</item>
+            <item>10,759 jours</item>
+            <item>30,687 jours</item>
+            <item>60,190 jours</item>
+        </string-array>
+
+        <!-- Planet Images -->
+        <integer-array name="planet_photos">
+            <item>@drawable/mercure</item>
+            <item>@drawable/venus</item>
+            <item>@drawable/terre</item>
+            <item>@drawable/mars</item>
+            <item>@drawable/jupiter</item>
+            <item>@drawable/saturn</item>
+            <item>@drawable/uranus</item>
+            <item>@drawable/neptune</item>
+        </integer-array>
+
+
+</resources>
